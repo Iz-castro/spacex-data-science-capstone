@@ -1,0 +1,10 @@
+# Ignore ambientes virtuais
+venv/
+.env/
+
+# Ignore arquivos do Jupyter
+.ipynb_checkpoints/
+
+# Ignore arquivos do sistema
+.DS_Store
+Thumbs.db
